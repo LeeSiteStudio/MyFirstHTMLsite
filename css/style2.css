@@ -1,0 +1,44 @@
+body {
+ 
+  background-color: lightgrey;
+  text-align: center;
+  
+
+}
+
+
+.basic {
+  text-align: center;
+  width: 80%;
+  border: 5px solid gray;
+  margin: auto;
+  background-color: white;
+}
+
+.part4 {
+  background-color: white;
+  }
+
+ul {
+  list-style-type: square;
+}  
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: yellow;
+}
+
+p.serif {
+    font-family: Arabica, Helvetica, serif;
+}
