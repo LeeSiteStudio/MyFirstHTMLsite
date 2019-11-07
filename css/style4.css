@@ -1,0 +1,9 @@
+body {
+ 
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.video {
+   float: left;
+}
